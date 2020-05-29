@@ -1,0 +1,8 @@
+.vs
+packages
+AspNetDistributedClient/bin
+AspNetDistributedClient/obj
+CalculatingPointService/bin
+CalculatingPointService/obj
+MakingGraphicsService/bin
+MakingGraphicsService/obj
